@@ -17,7 +17,7 @@ public class Missing_number {
 		            if (arr[i] + 1 != arr[i + 1]) {
 		         // find the missing no
 		                System.out.println("Missing number is: " + (arr[i] + 1));
-		                // stop find miss no the stop the loop
+		                // stop find the missing no  stop the loop
 		                break;
 		               
 		            }
